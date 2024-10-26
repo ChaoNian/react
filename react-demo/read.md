@@ -45,9 +45,9 @@ npm i react react-dom
 建一个 index.html 文件
  创建一个在public目录，并且在下面新建一个index.html 文件。
 
- 新建一个 index.js 文件
+ 新建一个  `index.js `文件
 创建一个名为 src 的文件夹，所有源代码都放在该目录下，在src目录下，创建index.js文件，该文件也就是 webpack 构建的入口文件
 创建文件
- src/index.js webpack 构建的入口文件
- src/App.js  组件
- 在项目根目录创建一个 webpack.config.js 文件，webpack.config.js 是 webpack 的默认配置文件名
+ `src/index.js` webpack 构建的入口文件
+ `src/App.js`  组件
+ 在项目根目录创建一个 `webpack.config.js` 文件， `webpack.config.js` 是 webpack 的默认配置文件名
